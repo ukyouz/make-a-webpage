@@ -1,2 +1,0 @@
-# Javascript, Not JAVA
-

@@ -16,9 +16,9 @@ description: 在這個Book裡，我會以輕鬆的敘述，把網頁製作的基
 
 在寫各種語言的時侯，可能會遇到一些難題，就可以來這邊找看看答案。
 
-{% page-ref page="css-techniques/untitled.md" %}
+{% page-ref page="techniques/css.md" %}
 
-{% page-ref page="css-techniques/php.md" %}
+{% page-ref page="techniques/php.md" %}
 
 ## Are Your Ready?
 
