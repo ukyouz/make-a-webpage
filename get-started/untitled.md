@@ -133,9 +133,9 @@ Bootstrap使用了網格（Grid）的概念，把網頁佈局（Layout）分成1
 | Screen Window Size ▶ | Extra small &lt;576px | Small ≥576px | Medium ≥768px | Large ≥992px | Extra large ≥1200px |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **Class prefix** | `.col-` | `.col-sm-` | `.col-md-` | `.col-lg-` | `.col-xl-` |
-| Phone | ▮ |  ▬ |  ▬ | - | - |
-| Tablet | - |  ▮ | ▮ | ▬ | ▬ |
-| Desktop | - |  - | ▬ | ▬ | ▬ |
+| Phone | ▮ |  ▬ |  ▬ |  |  |
+| Tablet |  |  ▮ | ▮ | ▬ | ▬ |
+| Desktop |  |   | ▬ | ▬ | ▬ |
 
 各個視窗寬度大致可以對應到如表格顯示的裝置，直向以▮表示、橫向以 ▬表示。
 
