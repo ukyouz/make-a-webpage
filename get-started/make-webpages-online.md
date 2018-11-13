@@ -54,6 +54,12 @@
 伺服器上的路徑及檔案名稱：/home/username/public\_html/index.php
 {% endhint %}
 
-當然，透過這樣的結構，我們可以陸續透過不同的網址來訪問到`public_html`這個目錄底下的所有其他檔案，例如我們進入`www.foo.com/test`，這樣就變成會看到`test`資料夾底下的`index.php`。其他檔案例如`www.foo.com/test/todolist.html`等等以此類推。  
+當然，透過這樣的結構，我們可以陸續透過不同的網址來訪問到`public_html`這個目錄底下的所有其他檔案，例如我們進入`www.foo.com/test`，這樣就變成會看到`test`資料夾底下的`index.php`。其他檔案例如`www.foo.com/test/todolist.html`等等以此類推。
 
+{% hint style="success" %}
+使用者在網路上輸入的網址：www.foo.com/test/todolist.html  
+伺服器上的路徑及檔案名稱：/home/username/public\_html/test/todolist.html
+{% endhint %}
+
+而這也就是最基本的路由（Router）的概念。
 
