@@ -134,7 +134,7 @@ h1 {
 * [ ] 簡單設計樣式
 
 {% hint style="info" %}
-你隨時可以按下「右鍵、檢查」來使用檢閱器查看一個網頁的所有內容。
+你隨時可以按下「右鍵、檢查」來使用[檢閱器](https://developers.google.com/web/tools/chrome-devtools/)查看一個網頁的所有內容。
 {% endhint %}
 
 #### 範本
